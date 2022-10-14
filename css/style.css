@@ -136,6 +136,7 @@ label[for="drop-nav"] {
 
 .img {
     border-radius: 50%;
+    max-width: 100%;
 }
 
 .about p {
@@ -192,7 +193,7 @@ label[for="drop-nav"] {
 }
 
 .contact form {
-    width: 700px;
+    /* width: 700; */
     margin: 40px auto 30px auto;
     display: flex;
     flex-wrap: wrap;
